@@ -1,0 +1,4 @@
+physics 60
+mathematics 70
+biology 50
+chemistry 100
