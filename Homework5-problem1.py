@@ -5,6 +5,7 @@ while True:
     text.write('\n')
     if not el:
         break
+text.close()
 
 
 
